@@ -19,7 +19,4 @@ En deuxième partie, développement d’un mini-framework d’injection des dép
 - Support d’annotations personnalisées pour l’injection.
 - Possibilité d’injection via constructeur, setter, et attribut.
 
-## Gestion Git
-- Réalisation de commits et push toutes les 30 minutes.
-- Utilisation du fichier README.md pour documenter les étapes.
-- Dernier commit à la fin de chaque séance.
+
